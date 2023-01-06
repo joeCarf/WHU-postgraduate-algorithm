@@ -1,7 +1,7 @@
 # WHU-postgraduate-algorithm 
 This repo contains source code and report for WHU-postgraduate-algorithm course
 
-Authors are Ao Qiao & Jing jin from WHU（武汉大学国家网络安全学院）
+Authors are Ao Qiao（乔奥） & Jing jin（金晶） from WHU（武汉大学国家网络安全学院）
 
 ## 实验内容-解决三维装箱问题
 装箱问题是物流企业在装卸环节上必须面对的一个核心问题，通常其装载 的规模达到上千，而且非常频繁。如果能设计出一个有效的装载方案，提高装 载的空间利用率，势必会给物流企业带来相当可观的利润。因此，研究出能够 有效求解三维装箱问题的遗传算法，对物流企业来说，显得尤为重要。
@@ -12,6 +12,8 @@ Authors are Ao Qiao & Jing jin from WHU（武汉大学国家网络安全学院�
 
 ## 仓库内容
 本仓库包含实验过程中的源码以及实验报告、运行结果等
-其中 Algo1.cpp 为基于遗传算法的三维装箱问题解决办法的实现
-    Algo2.cpp 为基于贪心以及随机算法的三维装箱问题解决办法
+* Algo1.cpp 为基于遗传算法的三维装箱问题解决办法的实现
+* Algo2.cpp 为基于贪心以及随机算法的三维装箱问题解决办法
+* 详细数据运行结果 为课程给出的数据集以及对应的测试结果
+* PDF 文件为我们小组撰写的实验报告
 
